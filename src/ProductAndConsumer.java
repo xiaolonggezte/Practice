@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /**
  * @author: xiaolong
  * @Date: 上午12:28 2018/8/24
- * @Description:实现生产者消费者问题
+ * @Description: 实现生产者消费者问题
  */
 public class ProductAndConsumer {
     private int Maxsize;
